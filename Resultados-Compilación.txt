@@ -1,0 +1,4 @@
+﻿Operación Compilar iniciada..
+1>------ Operación Compilar iniciada: proyecto: BarajaDeCartas, configuración: Debug Any CPU ------
+1>C:\Users\Seba\source\repos\BarajaDeCartas\BarajaDeCartas\Baraja.cs(78,1,78,2): error CS1022: Se esperaba una definición de tipo o espacio de nombres, o el fin del archivo
+========== Compilar: 0 correctos, 1 incorrectos, 0 actualizados, 0 omitidos ==========
